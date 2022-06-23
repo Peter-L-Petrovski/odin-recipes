@@ -1,0 +1,15 @@
+* {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: lightcyan;
+}
+
+img {
+    height: auto;
+    width: 250px;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
